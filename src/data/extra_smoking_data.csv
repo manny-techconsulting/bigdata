@@ -1,3 +1,4 @@
+"entry","gender","age","marital_status","highest_qualification","nationality","ethnicity","gross_income","region","smoke","amt_weekends","amt_weekdays","type"
 "1160","Male",25,"Married","GCSE/O Level","English","White","15,600 to 20,800","South East","No",NA,NA,""
 "1161","Male",18,"Married","ONC/BTEC","British","White","2,600 to 5,200","South East","No",NA,NA,""
 "1162","Female",58,"Married","GCSE/O Level","English","White","10,400 to 15,600","South East","No",NA,NA,""
